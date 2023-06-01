@@ -1,0 +1,34 @@
+{
+  "name": "plg6-icons",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "0a3ee424064f6ad4df821ea758d3399b",
+      "css": "smiley-circled",
+      "code": 59392,
+      "src": "elusive"
+    },
+    {
+      "uid": "bb68a13a3574b087d4350eff0b8d48e3",
+      "css": "emo-tongue",
+      "code": 59399,
+      "src": "fontelico"
+    },
+    {
+      "uid": "1c2a34e8bd2f8a53e3b059447a8e544f",
+      "css": "sunrise",
+      "code": 59393,
+      "src": "meteocons"
+    },
+    {
+      "uid": "032bd8bbd70adf90ead98b6813bfe446",
+      "css": "newspaper",
+      "code": 61930,
+      "src": "fontawesome"
+    }
+  ]
+}
